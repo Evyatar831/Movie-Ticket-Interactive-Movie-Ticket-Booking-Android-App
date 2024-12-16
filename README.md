@@ -3,6 +3,9 @@
 ## Project Overview
 
 MovieTicket is an interactive Android mobile application developed using Kotlin and Android Studio. Designed to provide users with a seamless movie ticket booking experience, this project demonstrates modern Android app development principles and user interface best practices.
+
+A walkthrough video (`video.mp4`) demonstrating the app's features is included in the repository. Watch the video to see the ticket booking process, user interface, and key functionalities.
+
 ![תמונה של WhatsApp‏ 2024-12-16 בשעה 23 27 25_bd0ecaaa](https://github.com/user-attachments/assets/b2e9841c-a758-4b08-adb6-d45064c4c3dd)
 ![תמונה של WhatsApp‏ 2024-12-16 בשעה 23 27 26_2a9d3339](https://github.com/user-attachments/assets/cb5c905d-3f8a-4a5c-9474-3b44d45fbe5e)
 
