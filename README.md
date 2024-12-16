@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-MovieTicket360 is an interactive Android mobile application designed to provide users with a seamless movie ticket booking experience. Developed as part of a comprehensive Android UI development drill, this application demonstrates modern mobile app design principles and user interface best practices.
+MovieTicket is an interactive Android mobile application designed to provide users with a seamless movie ticket booking experience. Developed as part of a comprehensive Android UI development drill, this application demonstrates modern mobile app design principles and user interface best practices.
 
 ## Features
 
