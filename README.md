@@ -49,10 +49,33 @@ MovieTicket is an interactive Android mobile application developed using Kotlin 
 - Kotlin programming knowledge
 - Physical or emulated Android device
 
-### Installation
-1. Clone the repository
-2. Open the project in Android Studio
-3. Sync Gradle files
-4. Build and run the application on your Android device or emulator
+## Installation
+
+### Download Options
+1. **APK File**: 
+   - Navigate to the [Releases](../../releases) section of this GitHub repository
+   - Download the latest `.apk` file
+   - Transfer the APK to your Android device
+   - Enable installation from unknown sources in your device settings
+   - Tap the APK file to install the application
+
+2. **Source Code**:
+   - Go to the [Releases](../../releases) section
+   - Download the `.zip` file containing the full project source code
+   - Open the project in Android Studio:
+     * Select "Open an Existing Project"
+     * Navigate to and select the unzipped project folder
+     * Wait for Gradle sync to complete
+     * Build and run the project on your preferred Android device or emulator
+
+### System Requirements
+- Android device or emulator running Android [specify minimum version]
+- Minimum 100 MB storage space
+- Internet connection for initial setup (recommended)
+
+### Troubleshooting
+- Ensure your device meets the minimum system requirements
+- Check that you have the latest version of Android Studio
+- Verify Gradle sync completes without errors
 
 ## Project Structure
