@@ -1,8 +1,8 @@
-# MovieTicket360 🎬
+# MovieTicket 🎬
 
 ## Project Overview
 
-MovieTicket360 is an interactive Android mobile application developed using Kotlin and Android Studio. Designed to provide users with a seamless movie ticket booking experience, this project demonstrates modern Android app development principles and user interface best practices.
+MovieTicket is an interactive Android mobile application developed using Kotlin and Android Studio. Designed to provide users with a seamless movie ticket booking experience, this project demonstrates modern Android app development principles and user interface best practices.
 
 ## Technology Stack
 
