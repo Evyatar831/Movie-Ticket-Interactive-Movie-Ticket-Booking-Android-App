@@ -53,14 +53,12 @@ MovieTicket is an interactive Android mobile application developed using Kotlin 
 
 ### Download Options
 1. **APK File**: 
-   - Navigate to the [Releases](../../releases) section of this GitHub repository
    - Download the latest `.apk` file
    - Transfer the APK to your Android device
    - Enable installation from unknown sources in your device settings
    - Tap the APK file to install the application
 
 2. **Source Code**:
-   - Go to the [Releases](../../releases) section
    - Download the `.zip` file containing the full project source code
    - Open the project in Android Studio:
      * Select "Open an Existing Project"
